@@ -1,0 +1,12 @@
+Custom messgage:
+
+Hello {}: I see you are a member of {} company. I have an interest in the {} area of tech {} your company is working on. 
+Can I connect to ask you abit about your role what you do. Apprciate your time. Luc
+
+Recommendation People:
+Jeremy: A manger of CSPi I worked well and alot with.
+Tom: A family firend while not in fully in tech I have touched base with alot: knows my personality.
+Jessica: A teacher I did research with: while NDA'd could still ask for rec
+
+Link to Link:
+https://www.linkedin.com/in/lucweidell/
