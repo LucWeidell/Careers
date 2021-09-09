@@ -1,0 +1,71 @@
+Elevator pitch:
+Hello, my name is Luc Weidell I am student at Northeastern University studying CS and CE. My technical skills include Front end skills with Vue as my framework and a strong understanding
+of JavaScript, HTML, and CSS. My back end skills include work with NodeJs Mongoose as well as Dapper and MySql for realtionship data. The testing suits I have done have been with Azure pipelines and Python and Postman.
+Recently I just attained a codebooking bootcamp certificate focusing in full-stack applications development. 
+
+At the bootcampe I product ownered over a two week capstone that developed a full-stack application to randomly select or search restaruants by filters based on city locations either through device geo-location or input provided by
+user. I also completed an 8-month capstone at Northeastern where I worked on the back end in React for our mobile app. And while this is under NDA we utilized many of the professional standards of using Agile, Github-projects to 
+release an a fully fledged MVP to our employer. 
+
+I am en aspiring software engineer that belives in hvaing a strong holistic understanding of CS and strive to have an adaptible midset to be able to utilize the many toolsets that developer are relaseing every day. My hope is to convert 
+my unserstanding of full stack applications to manifest peoples aspiractions and bring them into the digital world for even more exposure.
+
+
+
+Post Interview Questions:
+1. What is the remote to onSite percentage of your team and how does your company balance that culture?
+
+2. What gets you excited to work at this company every day or what was it when you wanted to join?
+
+3. Is there options or avenues for a developer in this position to involve themselves with other sectors of the project?
+
+4. In the first 90 days of this position, what do you hop I would be able to accomplis in this position?
+
+5. How often are performance evaluations done? And who tipically handles them?
+
+6. At what point in the hiring process for this position is yoour company at?
+
+7. Is there anything worries about myself that makes you hesitate for hiring me right now?
+
+Star Quersion:
+1. Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
+Task:
+Action:
+Resolution:
+
+2. Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
+Task: During my time as the General Merchandise Manager at Safeway I was left a lot to my own devices since the Store Manager and 2nd Store MAnager had to focus a lot on other departments
+and other sectors of the store. This meant that once The role was made into a 1 person department after the optimizations to the job that I performed became a tough task to perform my job
+to the standard that was taight during training.
+Action: I had three tools that let me handle this situation. First was during my on-boarding I paid extensive atteention to how the job was initially performed and always homes in on words like
+"merchandise should be presented like this" or "Usually the quickest way to organize this is to do X." While at the time I didnt know the management would be loose I got as much info from my seniors about expectations
+that were placed on the department. The Second tool was I always did my job under the assumption in my mind of, "If I was the manager of myself what would I hope this GM manager does." I always worked with this expectation
+so I forsaw many roadblocks and helped pave them for myself and the stor manager before they ever became an issue. Thir was if there were roadblocks I forsaw early I alwasy communicated to him these directly or left notes
+when he was unavailable. While he may not be overseeing me directly all the time that did not mean I could not reach out to get his attention and keep him in the loop. 
+Resolution: These tools essentially allowed him to continue to address other troubling areas in the store but also to be able to review my deptartment when possible. My manager and I also built up a strong repore and understanding
+that if there were ever urgent issues that I would communicate those early which allowed my to continue to optimize these accordingly but if things didnt work out, they didnt show up on him unannounced.
+
+3. Give me an example of a time when you were able to successfully persuade someone to see things your way at work.
+Task: Again as my time as a GM at Safeway there was a cronic problem of FIRMS: or shelving units with discontinued products to be left and not be cleared well within the proper time frame. This would leace apparent gaps in our 
+merchandise that could have been filled but can only be filled after the FIRM team came in and fixed a section. My department was one of the worst cases with little attention.
+Action: Though my store manager was loose in oversight over myself, this was a growing issue that needed constant bandade solutions that when I inherited the department was a contant annoyance. It slowed down stocking times,
+messed with our inverntory management system, and lead to many orders from the comany that could not be shelved and priced correctly. I made this a constant topic to my manager of the degree of this problem and the neccessity
+for it to be fixed rather than continue this issue. While we couldnt get teh FIRM team, we were able to teach a small team including myself and the manager how to do firms properly and got permission from the Franchise to conduct
+internal firms to fix the issue.
+Resolution: We cleaned up more than 6 firms some over 8 months old so that new product could be placed correctly and present better and more active product to the customers and cleaned up the inventory system for the next person to take over the department.
+This internal team could also attack other areas in the store that had similar issues.
+
+4. Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
+Task:
+Action:
+Resolution:
+
+5. Describe a time when it was especially important to make a good impression on a client. How did you go about doing so?
+Task:
+Action:
+Resolution:
+
+
+
+
+
